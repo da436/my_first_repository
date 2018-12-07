@@ -1,2 +1,3 @@
 # my_first_repository
-try
+GitHub is fun!
+
